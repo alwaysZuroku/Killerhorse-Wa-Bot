@@ -1,7 +1,7 @@
 {
-    "name": "laurine-wabot",
-    "version": "1.0.0",
-    "description": "gatau",
+    "name": "killerhorse",
+    "version": "3.2",
+    "description": "STC Bugs Version",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -13,7 +13,7 @@
         "KyuuRzy",
         "kiuur"
     ],
-    "author": "kyuurzy",
+    "author": "xhorse",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
